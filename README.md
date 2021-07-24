@@ -3,7 +3,7 @@
 ### A bot that can play music on Telegram Group and Channel Voice Chats
 
 <p align="center">
-  <a href="https://github.com/LushaiMusic/VCsMusicBot">
+  <a href="https://github.com/ReislerSupport/Reislerasilbot">
      <img height="30px" src="https://img.shields.io/badge/Group%20Music%20Bot-red?style=for-the-badge&logo=github">
   </a>
 </p>
@@ -19,11 +19,11 @@
 Before clicking on deploy to heroku just click on fork and star just below
 
 <p align="center">
-  <a href="https://github.com/LushaiMusic/VCsMusicBot/fork">
+  <a href="https://github.com/ReislerSupport/Reislerasilbot/fork">
     <img src="https://img.shields.io/github/forks/LushaiMusic/VCsMusicBot?label=Fork&style=social">
     
   </a>
-  <a href="https://github.com/LushaiMusic/GroupMusicBot">
+  <a href="https://github.com/ReislerSupport/Reislerasilbot">
     <img src="https://img.shields.io/github/stars/LushaiMusic/VCsMusicBot?style=social">
   </a>
 </p>
@@ -52,7 +52,7 @@ $ cd VCsMusicBot
 # Install All Requirements 
 $ pip3 install -r requirements.txt
 # Fork This Repo and fill local.env and config.py both with your own values.Then Start The Bot
-$ python3 -m VCsMusicBot
+$ python3 -m ReislerMuzikBot
 ```
 
 ### Features ✅
@@ -72,8 +72,8 @@ $ python3 -m VCsMusicBot
 ### Commands for Group 👥
 #### For all in group
 
-- `/play <song name>` - play song you requested
-- `/play <reply to audio>` - play replied file
+- `/oynat <şarkı adı>` - istediğin şarkıyı çal
+- `/Oyna <sese yanıt ver>` - yanıtlanan dosyayı oynat
 - `/dplay <song name>` - play song you requested via deezer
 - `/splay <song name>` - play song you requested via jio saavn
 - `/ytplay <song name>`: Directly play song via YouTube Music
